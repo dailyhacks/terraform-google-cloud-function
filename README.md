@@ -2,4 +2,4 @@
 
 Ejemplo de creación de una Google Cloud Function usando Terraform.
 Este es el código fuente que se describe en la guía
-[Configura una Google Cloud Function con Terraform](https://github.com/dailyhacks/terraform-google-cloud-function 'aquí').
+[Configura una Google Cloud Function con Terraform](https://dailyhacks.dev/configura-una-google-cloud-function-con-terraform).
